@@ -1,0 +1,14 @@
+<?php
+/**
+ * Generated stub declarations for Fluent Cart Pro.
+ * @see https://fluentcart.com/
+ * @see https://github.com/mralaminahamed/phpstan-fluent-cart-pro-stubs
+ */
+
+\define('FLUENTCART_PRO_PLUGIN_VERSION', '1.5.3');
+\define('FLUENTCART_PRO_PLUGIN_DIR', \plugin_dir_path(__FILE__));
+\define('FLUENTCART_PRO_PLUGIN_URL', \plugin_dir_url(__FILE__));
+\define('FLUENTCART_PRO_PLUGIN_FILE_PATH', __FILE__);
+\define('FLUENTCART_MIN_CORE_VERSION', '1.5.3');
+\define('FLUENTCART_PRO_DB_VERSION', '1.0.0');
+\define('FLUENT_CART_PRO_DEV_MODE', 'no');
